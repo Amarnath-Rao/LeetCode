@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amarnath-Rao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Amarnath-Rao/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Amarnath-Rao/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amarnath-Rao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amarnath-Rao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
