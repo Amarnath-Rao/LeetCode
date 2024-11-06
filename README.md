@@ -12,4 +12,16 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Amarnath-Rao/LeetCode/tree/master/0812-rotate-string) |
+## Array
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Amarnath-Rao/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Amarnath-Rao/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Amarnath-Rao/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
